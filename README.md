@@ -1,4 +1,4 @@
-# React-ej11
+# React-ej12
 Ejercicio 12 del Trabajo Practico REACT
 
 # Instrucciones de uso
